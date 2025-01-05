@@ -1,4 +1,4 @@
-package JavaBase;
+package JavaProgram;
 
 public class Lab01 {
     public static void main(String[] args) {
