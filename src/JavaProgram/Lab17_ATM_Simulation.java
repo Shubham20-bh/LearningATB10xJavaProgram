@@ -1,4 +1,4 @@
-package JavaProgram.Task30Jan;
+package JavaProgram;
 
 public class Lab17_ATM_Simulation {
     public static void main(String[] args) {

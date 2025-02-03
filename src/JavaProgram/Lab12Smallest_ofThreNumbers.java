@@ -1,4 +1,4 @@
-package JavaProgram.Task30Jan;
+package JavaProgram;
 
 public class Lab12Smallest_ofThreNumbers {
     public static void main(String[] args) {

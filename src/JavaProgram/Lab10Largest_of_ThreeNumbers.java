@@ -1,4 +1,4 @@
-package JavaProgram.Task30Jan;
+package JavaProgram;
 
 public class Lab10Largest_of_ThreeNumbers {
     public static void main(String[] args) {

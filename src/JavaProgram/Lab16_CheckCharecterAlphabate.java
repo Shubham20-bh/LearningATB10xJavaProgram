@@ -1,4 +1,4 @@
-package JavaProgram.Task30Jan;
+package JavaProgram;
 
 public class Lab16_CheckCharecterAlphabate {
     public static void main(String[] args) {

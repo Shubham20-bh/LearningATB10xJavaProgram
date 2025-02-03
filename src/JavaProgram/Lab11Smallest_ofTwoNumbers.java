@@ -1,4 +1,4 @@
-package JavaProgram.Task30Jan;
+package JavaProgram;
 
 public class Lab11Smallest_ofTwoNumbers {
     public static void main(String[] args) {
